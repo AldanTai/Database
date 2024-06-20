@@ -2,7 +2,7 @@
 這個項目Car Sales Management System是一個基於 Java 並使用 Swing 的 GUI 的汽車銷售管理系統。
 該系統可以讓用戶與汽車銷售資料庫進行互動，執行各種SQL查詢，並查看結果
 
-目錄
+目錄  
 前置需求
 安裝
 使用
