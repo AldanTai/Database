@@ -36,7 +36,7 @@ src/
     ├── CarSalesGUI.java       // 主 GUI 類，包含查詢執行方法  
     ├── CreateTables.java      // 創建數據庫結構並插入示例數據  
     ├── DatabaseConnection.java // 管理數據庫連接  
-    └── Queries.java  // 包含 SQL 查詢方法  
+    └── Queries.java  // 包含 SQL 查詢方法，此程式僅能在編譯器console上運行    
     
 資料庫結構  
 包括下表：  
