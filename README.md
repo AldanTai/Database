@@ -51,7 +51,7 @@ src/
 
 範例SQL 查詢  
 以下是一些範例的SQL查詢，展示如何從資料庫中搜索特定訊息  
-結果截圖請參閱resultpicture資料夾
+結果截圖請參閱resultpicture資料夾(有些結果欄位會跑位)
 
 查詢1：找SUV 銷量最好的月份:  
 "SELECT MONTH(v.銷售日期) as 月份, COUNT(*) as 銷售量 "  
