@@ -32,7 +32,7 @@ MariaDB
 項目結構  
 以下是項目目錄的概述：  
   
-src/
+src/  
     ├── CarSalesGUI.java       // 主 GUI 類，包含查詢執行方法  
     ├── CreateTables.java      // 創建數據庫結構並插入示例數據  
     ├── DatabaseConnection.java // 管理數據庫連接  
